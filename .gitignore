@@ -1,6 +1,6 @@
 *.pdf
 .DS_Store
-backend/venv/
+backend/myenv/
 backend/__pycache__/
 backend/.env
 backend/app/core/__pycache__/
